@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "ChuChuPenaldo",
+    "username": "PerzaanLive",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "Chuchupenaldo.aternos.me",
-    "port": 21832,
+    "ip": "salmanmizinabil.aternos.me",
+    "port": 18667,
     "version": "1.21.1"
   },
   "position": {
